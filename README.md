@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey✌️ 
+#### My name is Elisabeth Paula!
+###### I am a Computer Science student at UNIC. 
+###### 
 
-<!--
-**kkelisabeth/kkelisabeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌑 I am currently working on something.. interesting (it's a secret, so tss!) 
+🌒 Have some knowledge in C#, C++, Java, Assembly
+🌓 Currently improving my knowledge in C++ and C#
+🌔 Interested in Game Development and Android Application Development   
+🌕 To reach me: k.elizabethpaulina@gmail.com
 
-Here are some ideas to get you started:
+###### If you are tired of reading all this, please look at this little programmer cat!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="width:100%;height:0;padding-bottom:105%;position:relative;"><iframe src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" width="100%" height="70%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE">via GIPHY</a></p>
