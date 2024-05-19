@@ -4,7 +4,7 @@
 
 ##### About me
 > * 🌑 I am currently working on something.. interesting (it's a secret, so tss!)
-> * 🌒 Have some knowledge in C#, C++, Java, Assembly
+> * 🌒 Have some knowledge in C#, C++, Java, JavaScript, NodeJs
 > * 🌓 Currently improving my knowledge in C++, C#, as well as starting my learning path in Web Development
 > * 🌔 Interested in Game Development, Mobile Application Development, Web Development and IoT
 > * 🌕 To reach me: k.elizabethpaulina@gmail.com
