@@ -6,7 +6,7 @@
 > * 🌑 I am currently working on something.. interesting (it's a secret, so tss!)
 > * 🌒 Have some knowledge in C#, C++, Java, JavaScript
 > * 🌓 Currently improving my knowledge in C++, C#, as well as starting my learning path in Web Development
-> * 🌔 Interested in Game Development, Mobile Application Development, Web Development and IoT
+> * 🌔 Interested in Mobile Application Development, Web Development and IoT
 > * 🌕 To reach me: k.elizabethpaulina@gmail.com
 
 ##### Now if you are tired of reading all this, here is a cute little kitten trying to be a programmer (it's just like me) 
