@@ -1,6 +1,6 @@
 ### Hey✌️ 
 #### My name is Elisabeth Paula!
-###### I am a Computer Science student at UNIC. 
+###### I am a Computer Science graduate from UNIC. 
 
 ##### About me
 > * 🌑 I am currently working on something.. interesting (it's a secret, so tss!)
